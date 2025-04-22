@@ -2,7 +2,7 @@ const nodemailer = require('nodemailer');
 
 // Configuration for email recipients
 const EMAIL_CONFIG = {
-  recipients: ['muhammadshaheerluqman@gmail.com'] // Replace with your fixed recipient email(s)
+  recipients: ['eagri.pk@gmail.com'] // Replace with your fixed recipient email(s)
 };
 
 // Create reusable transporter object using Gmail SMTP
